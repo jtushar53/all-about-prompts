@@ -13,6 +13,12 @@ html, body, #root {
   color: #e2e8f0;
 }
 
+canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
 /* Floating HTML overlays inside Canvas use these */
 .hud-text {
   font-size: 11px;
