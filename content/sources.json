@@ -1,0 +1,177 @@
+[
+  {
+    "title": "OpenAI Prompt Engineering Guide",
+    "url": "https://platform.openai.com/docs/guides/prompt-engineering",
+    "type": "docs",
+    "authors": ["OpenAI"],
+    "year": 2023
+  },
+  {
+    "title": "Anthropic Prompt Engineering Docs",
+    "url": "https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview",
+    "type": "docs",
+    "authors": ["Anthropic"],
+    "year": 2024
+  },
+  {
+    "title": "Google Gemini Prompting Whitepaper",
+    "url": "https://ai.google.dev/gemini-api/docs/prompting-strategies",
+    "type": "docs",
+    "authors": ["Google DeepMind"],
+    "year": 2024
+  },
+  {
+    "title": "Microsoft Prompt Engineering Docs",
+    "url": "https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering",
+    "type": "docs",
+    "authors": ["Microsoft"],
+    "year": 2024
+  },
+  {
+    "title": "Learn Prompting",
+    "url": "https://learnprompting.org",
+    "type": "docs",
+    "authors": ["Sander Schulhoff et al."],
+    "year": 2022
+  },
+  {
+    "title": "Prompt Engineering Guide",
+    "url": "https://www.promptingguide.ai",
+    "type": "docs",
+    "authors": ["DAIR.AI"],
+    "year": 2023
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "type": "repo",
+    "authors": ["Elvis Saravia"],
+    "year": 2022
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "type": "repo",
+    "authors": ["Fatih Kadir Akın"],
+    "year": 2023
+  },
+  {
+    "title": "anthropics/anthropic-cookbook",
+    "url": "https://github.com/anthropics/anthropic-cookbook",
+    "type": "repo",
+    "authors": ["Anthropic"],
+    "year": 2024
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "type": "repo",
+    "authors": ["OpenAI"],
+    "year": 2023
+  },
+  {
+    "title": "stanfordnlp/dspy",
+    "url": "https://github.com/stanfordnlp/dspy",
+    "type": "repo",
+    "authors": ["Omar Khattab et al."],
+    "year": 2023
+  },
+  {
+    "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+    "url": "https://arxiv.org/abs/2201.11903",
+    "type": "paper",
+    "authors": ["Jason Wei", "Xuezhi Wang", "Dale Schuurmans", "et al."],
+    "year": 2022
+  },
+  {
+    "title": "Self-Consistency Improves Chain of Thought Reasoning",
+    "url": "https://arxiv.org/abs/2203.11171",
+    "type": "paper",
+    "authors": ["Xuezhi Wang", "Jason Wei", "Dale Schuurmans", "et al."],
+    "year": 2022
+  },
+  {
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "type": "paper",
+    "authors": ["Shunyu Yao", "Jeffrey Zhao", "Dian Yu", "et al."],
+    "year": 2022
+  },
+  {
+    "title": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+    "url": "https://arxiv.org/abs/2305.10601",
+    "type": "paper",
+    "authors": ["Shunyu Yao", "Dian Yu", "Jeffrey Zhao", "et al."],
+    "year": 2023
+  },
+  {
+    "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2303.11366",
+    "type": "paper",
+    "authors": ["Noah Shinn", "Federico Cassano", "Ashwin Gopinath", "et al."],
+    "year": 2023
+  },
+  {
+    "title": "Large Language Models Are Human-Level Prompt Engineers (APE)",
+    "url": "https://arxiv.org/abs/2211.01910",
+    "type": "paper",
+    "authors": ["Yongchao Zhou", "Andrei Ioan Muresanu", "Ziwen Han", "et al."],
+    "year": 2022
+  },
+  {
+    "title": "Large Language Models as Optimizers (OPRO)",
+    "url": "https://arxiv.org/abs/2309.03409",
+    "type": "paper",
+    "authors": ["Chengrun Yang", "Xuezhi Wang", "Yifeng Lu", "et al."],
+    "year": 2023
+  },
+  {
+    "title": "DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines",
+    "url": "https://arxiv.org/abs/2310.03714",
+    "type": "paper",
+    "authors": ["Omar Khattab", "Arnav Singhvi", "Paridhi Maheshwari", "et al."],
+    "year": 2023
+  },
+  {
+    "title": "Constitutional AI: Harmlessness from AI Feedback",
+    "url": "https://arxiv.org/abs/2212.08073",
+    "type": "paper",
+    "authors": ["Yuntao Bai", "Saurav Kadavath", "Sandipan Kundu", "et al."],
+    "year": 2022
+  },
+  {
+    "title": "Prompt Engineering — Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/",
+    "type": "blog",
+    "authors": ["Lilian Weng"],
+    "year": 2023
+  },
+  {
+    "title": "Prompt Injection Attacks Against GPT-3",
+    "url": "https://simonwillison.net/2022/Sep/12/prompt-injection/",
+    "type": "blog",
+    "authors": ["Simon Willison"],
+    "year": 2022
+  },
+  {
+    "title": "Patterns for Building LLM-based Systems & Products",
+    "url": "https://eugeneyan.com/writing/llm-patterns/",
+    "type": "blog",
+    "authors": ["Eugene Yan"],
+    "year": 2023
+  },
+  {
+    "title": "A Hacker's Guide to Language Models",
+    "url": "https://www.youtube.com/watch?v=jkrNMKz9pWU",
+    "type": "blog",
+    "authors": ["Jeremy Howard"],
+    "year": 2023
+  },
+  {
+    "title": "Evaluation for Language Models",
+    "url": "https://hamel.dev/blog/posts/evals/",
+    "type": "blog",
+    "authors": ["Hamel Husain"],
+    "year": 2024
+  }
+]
