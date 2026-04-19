@@ -12,7 +12,7 @@ export default function LastUpdatedHUD() {
       <Text
         position={[-3.5, -2.6, 0]}
         fontSize={0.13}
-        color="rgba(180,160,255,0.7)"
+        color="#b4a0ff"
         anchorX="left"
         anchorY="bottom"
         font={undefined}
