@@ -8,7 +8,7 @@ export default function LastUpdatedHUD() {
   const label = `updated ${meta.lastUpdated} · ${meta.commit}`
 
   return (
-    <Hud renderPriority={2}>
+    <Hud renderPriority={1}>
       <Text
         position={[-3.5, -2.6, 0]}
         fontSize={0.13}
