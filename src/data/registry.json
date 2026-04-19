@@ -1,0 +1,517 @@
+{
+  "guide-01": {
+    "title": "What is a Prompt?",
+    "tier": "basics",
+    "tags": [
+      "introduction",
+      "basics"
+    ],
+    "path": "guide/01-what-is-a-prompt.md"
+  },
+  "guide-02": {
+    "title": "Anatomy of a Prompt",
+    "tier": "basics",
+    "tags": [
+      "anatomy",
+      "structure",
+      "instruction",
+      "context",
+      "input",
+      "output"
+    ],
+    "path": "guide/02-anatomy-of-a-prompt.md"
+  },
+  "guide-03": {
+    "title": "Clarity & Specificity",
+    "tier": "basics",
+    "tags": [
+      "clarity",
+      "specificity",
+      "precision"
+    ],
+    "path": "guide/03-clarity-and-specificity.md"
+  },
+  "guide-04": {
+    "title": "Constraints & Format Hints",
+    "tier": "basics",
+    "tags": [
+      "constraints",
+      "format",
+      "output-format",
+      "length"
+    ],
+    "path": "guide/04-constraints-and-format.md"
+  },
+  "guide-05": {
+    "title": "Examples (Zero / One / Few-Shot)",
+    "tier": "basics",
+    "tags": [
+      "few-shot",
+      "one-shot",
+      "zero-shot",
+      "examples",
+      "in-context-learning"
+    ],
+    "path": "guide/05-examples-few-shot.md"
+  },
+  "guide-06": {
+    "title": "System Prompts & Roles",
+    "tier": "intermediate",
+    "tags": [
+      "system-prompt",
+      "role-prompting",
+      "persona"
+    ],
+    "path": "guide/06-system-prompts-and-roles.md"
+  },
+  "guide-07": {
+    "title": "Structured Output (JSON Schema)",
+    "tier": "intermediate",
+    "tags": [
+      "structured-output",
+      "json",
+      "schema",
+      "parsing"
+    ],
+    "path": "guide/07-structured-output.md"
+  },
+  "guide-08": {
+    "title": "Temperature & Sampling",
+    "tier": "intermediate",
+    "tags": [
+      "temperature",
+      "sampling",
+      "top-p",
+      "randomness",
+      "creativity"
+    ],
+    "path": "guide/08-temperature-and-sampling.md"
+  },
+  "guide-09": {
+    "title": "Chain-of-Thought Basics",
+    "tier": "intermediate",
+    "tags": [
+      "chain-of-thought",
+      "reasoning",
+      "CoT",
+      "step-by-step"
+    ],
+    "path": "guide/09-chain-of-thought.md"
+  },
+  "guide-10": {
+    "title": "Tools, RAG & Retrieval",
+    "tier": "advanced",
+    "tags": [
+      "tools",
+      "RAG",
+      "retrieval",
+      "function-calling",
+      "grounding"
+    ],
+    "path": "guide/10-tools-rag-retrieval.md"
+  },
+  "guide-11": {
+    "title": "Agents & Prompt Chaining",
+    "tier": "advanced",
+    "tags": [
+      "agents",
+      "chaining",
+      "orchestration",
+      "multi-step",
+      "ReAct"
+    ],
+    "path": "guide/11-agents-and-chaining.md"
+  },
+  "guide-12": {
+    "title": "Eval & Safety",
+    "tier": "advanced",
+    "tags": [
+      "evaluation",
+      "safety",
+      "prompt-injection",
+      "guardrails",
+      "red-teaming"
+    ],
+    "path": "guide/12-eval-and-safety.md"
+  },
+  "agentic-planners": {
+    "title": "Agentic Planners",
+    "tier": "frontier",
+    "tags": [
+      "planning",
+      "agents",
+      "task-decomposition",
+      "PDDL",
+      "LLM-planner"
+    ],
+    "path": "techniques/agentic-planners.md"
+  },
+  "anatomy": {
+    "title": "Prompt Anatomy",
+    "tier": "basics",
+    "tags": [
+      "anatomy",
+      "structure",
+      "instruction",
+      "context",
+      "input",
+      "output"
+    ],
+    "path": "techniques/anatomy.md"
+  },
+  "ape-opro": {
+    "title": "APE & OPRO: Automatic Prompt Optimization",
+    "tier": "frontier",
+    "tags": [
+      "APE",
+      "OPRO",
+      "automatic-prompt-engineering",
+      "optimization",
+      "gradient-free"
+    ],
+    "path": "techniques/ape-opro.md"
+  },
+  "chain-of-thought": {
+    "title": "Chain-of-Thought (CoT)",
+    "tier": "intermediate",
+    "tags": [
+      "chain-of-thought",
+      "CoT",
+      "reasoning",
+      "step-by-step",
+      "scratchpad"
+    ],
+    "path": "techniques/chain-of-thought.md"
+  },
+  "clarity": {
+    "title": "Clarity & Specificity",
+    "tier": "basics",
+    "tags": [
+      "clarity",
+      "specificity",
+      "precision",
+      "vagueness"
+    ],
+    "path": "techniques/clarity.md"
+  },
+  "constitutional-ai": {
+    "title": "Constitutional AI",
+    "tier": "frontier",
+    "tags": [
+      "constitutional-AI",
+      "RLAIF",
+      "self-critique",
+      "safety",
+      "alignment"
+    ],
+    "path": "techniques/constitutional-ai.md"
+  },
+  "constraints": {
+    "title": "Constraints & Format Hints",
+    "tier": "basics",
+    "tags": [
+      "constraints",
+      "format",
+      "length",
+      "rules",
+      "output-format"
+    ],
+    "path": "techniques/constraints.md"
+  },
+  "delimiters": {
+    "title": "Delimiters & Separators",
+    "tier": "basics",
+    "tags": [
+      "delimiters",
+      "separators",
+      "xml-tags",
+      "sections",
+      "injection-prevention"
+    ],
+    "path": "techniques/delimiters.md"
+  },
+  "dspy": {
+    "title": "DSPy: Programming LM Pipelines",
+    "tier": "frontier",
+    "tags": [
+      "DSPy",
+      "optimization",
+      "programming",
+      "signatures",
+      "teleprompters"
+    ],
+    "path": "techniques/dspy.md"
+  },
+  "evaluator-optimizer": {
+    "title": "Evaluator-Optimizer Loop",
+    "tier": "advanced",
+    "tags": [
+      "evaluator",
+      "optimizer",
+      "self-refinement",
+      "critique",
+      "iteration"
+    ],
+    "path": "techniques/evaluator-optimizer.md"
+  },
+  "examples": {
+    "title": "In-Context Examples",
+    "tier": "basics",
+    "tags": [
+      "examples",
+      "in-context-learning",
+      "demonstrations",
+      "pattern"
+    ],
+    "path": "techniques/examples.md"
+  },
+  "few-shot": {
+    "title": "Few-Shot Prompting",
+    "tier": "intermediate",
+    "tags": [
+      "few-shot",
+      "examples",
+      "in-context-learning",
+      "demonstrations"
+    ],
+    "path": "techniques/few-shot.md"
+  },
+  "guardrails-injection": {
+    "title": "Guardrails & Prompt Injection Defense",
+    "tier": "advanced",
+    "tags": [
+      "guardrails",
+      "prompt-injection",
+      "safety",
+      "defense",
+      "validation"
+    ],
+    "path": "techniques/guardrails-injection.md"
+  },
+  "long-context-strategies": {
+    "title": "Long-Context Strategies",
+    "tier": "frontier",
+    "tags": [
+      "long-context",
+      "context-window",
+      "lost-in-the-middle",
+      "chunking",
+      "attention"
+    ],
+    "path": "techniques/long-context-strategies.md"
+  },
+  "meta-prompting": {
+    "title": "Meta-Prompting",
+    "tier": "advanced",
+    "tags": [
+      "meta-prompting",
+      "prompt-generation",
+      "orchestration",
+      "self-referential"
+    ],
+    "path": "techniques/meta-prompting.md"
+  },
+  "multi-agent-orchestration": {
+    "title": "Multi-Agent Orchestration",
+    "tier": "frontier",
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "swarm",
+      "parallelism",
+      "coordination"
+    ],
+    "path": "techniques/multi-agent-orchestration.md"
+  },
+  "one-shot": {
+    "title": "One-Shot Prompting",
+    "tier": "intermediate",
+    "tags": [
+      "one-shot",
+      "single-example",
+      "demonstration"
+    ],
+    "path": "techniques/one-shot.md"
+  },
+  "prompt-chaining": {
+    "title": "Prompt Chaining",
+    "tier": "advanced",
+    "tags": [
+      "chaining",
+      "pipeline",
+      "sequential",
+      "decomposition",
+      "multi-step"
+    ],
+    "path": "techniques/prompt-chaining.md"
+  },
+  "prompt-compression": {
+    "title": "Prompt Compression",
+    "tier": "advanced",
+    "tags": [
+      "compression",
+      "context-window",
+      "efficiency",
+      "LLMLingua",
+      "tokens"
+    ],
+    "path": "techniques/prompt-compression.md"
+  },
+  "rag": {
+    "title": "Retrieval-Augmented Generation (RAG)",
+    "tier": "advanced",
+    "tags": [
+      "RAG",
+      "retrieval",
+      "grounding",
+      "vector-search",
+      "knowledge-base"
+    ],
+    "path": "techniques/rag.md"
+  },
+  "react": {
+    "title": "ReAct (Reason + Act)",
+    "tier": "advanced",
+    "tags": [
+      "ReAct",
+      "reasoning",
+      "acting",
+      "agents",
+      "tool-use",
+      "loop"
+    ],
+    "path": "techniques/react.md"
+  },
+  "reflexion": {
+    "title": "Reflexion",
+    "tier": "advanced",
+    "tags": [
+      "reflexion",
+      "self-reflection",
+      "verbal-reinforcement",
+      "iterative",
+      "agent"
+    ],
+    "path": "techniques/reflexion.md"
+  },
+  "role-prompting": {
+    "title": "Role Prompting",
+    "tier": "intermediate",
+    "tags": [
+      "role",
+      "persona",
+      "expert",
+      "character",
+      "framing"
+    ],
+    "path": "techniques/role-prompting.md"
+  },
+  "schema-constrained-decoding": {
+    "title": "Schema-Constrained Decoding",
+    "tier": "frontier",
+    "tags": [
+      "constrained-decoding",
+      "grammar",
+      "schema",
+      "structured-output",
+      "reliability"
+    ],
+    "path": "techniques/schema-constrained-decoding.md"
+  },
+  "self-consistency": {
+    "title": "Self-Consistency",
+    "tier": "intermediate",
+    "tags": [
+      "self-consistency",
+      "majority-vote",
+      "ensemble",
+      "reasoning",
+      "reliability"
+    ],
+    "path": "techniques/self-consistency.md"
+  },
+  "speculative-parallel-prompting": {
+    "title": "Speculative & Parallel Prompting",
+    "tier": "frontier",
+    "tags": [
+      "speculative",
+      "parallel",
+      "latency",
+      "efficiency",
+      "batching"
+    ],
+    "path": "techniques/speculative-parallel-prompting.md"
+  },
+  "structured-output": {
+    "title": "Structured Output",
+    "tier": "intermediate",
+    "tags": [
+      "structured-output",
+      "json",
+      "schema",
+      "parsing",
+      "reliability"
+    ],
+    "path": "techniques/structured-output.md"
+  },
+  "system-prompts": {
+    "title": "System Prompts",
+    "tier": "intermediate",
+    "tags": [
+      "system-prompt",
+      "persona",
+      "behavior",
+      "API",
+      "guardrails"
+    ],
+    "path": "techniques/system-prompts.md"
+  },
+  "temperature-sampling": {
+    "title": "Temperature & Sampling",
+    "tier": "intermediate",
+    "tags": [
+      "temperature",
+      "top-p",
+      "sampling",
+      "randomness",
+      "creativity",
+      "determinism"
+    ],
+    "path": "techniques/temperature-sampling.md"
+  },
+  "tool-use": {
+    "title": "Tool Use / Function Calling",
+    "tier": "advanced",
+    "tags": [
+      "tool-use",
+      "function-calling",
+      "API",
+      "actions",
+      "grounding"
+    ],
+    "path": "techniques/tool-use.md"
+  },
+  "tree-of-thoughts": {
+    "title": "Tree of Thoughts (ToT)",
+    "tier": "advanced",
+    "tags": [
+      "tree-of-thoughts",
+      "ToT",
+      "search",
+      "planning",
+      "backtracking",
+      "reasoning"
+    ],
+    "path": "techniques/tree-of-thoughts.md"
+  },
+  "zero-shot": {
+    "title": "Zero-Shot Prompting",
+    "tier": "intermediate",
+    "tags": [
+      "zero-shot",
+      "no-examples",
+      "direct-instruction"
+    ],
+    "path": "techniques/zero-shot.md"
+  }
+}
